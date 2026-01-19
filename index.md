@@ -1,4 +1,4 @@
 ---
-title: jmskovu - Blog 
+title: jmskovu
 ---
 
